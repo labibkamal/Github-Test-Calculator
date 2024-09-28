@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         eText.setText(eText.getText()+"1");
     }
 
-    public void btn002lick(View view) {
+    public void btn02Click(View view) {
         TextView eText = (TextView) findViewById(R.id.resultEdit);
         eText.setText(eText.getText()+"2");
     }
